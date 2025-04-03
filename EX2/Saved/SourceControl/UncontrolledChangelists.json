@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/EX2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/BootCamp1/EX2/Content/Blueprint/Enum.uasset",
+				"C:/BootCamp1/EX2/Content/Blueprint/BP_MoveLeftRight.uasset",
+				"C:/BootCamp1/EX2/Content/Blueprint/BP_MoveRect.uasset",
+				"C:/BootCamp1/EX2/Content/Blueprint/Timer.uasset",
+				"C:/BootCamp1/EX2/Content/Blueprint/Hud_wiget.uasset",
+				"C:/BootCamp1/EX2/Content/Blueprint/BP_hud.uasset",
+				"C:/BootCamp1/EX2/Content/BP_SPrimeMove.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/V2/XD2JKWV3OKZ8A7KEGOVITL.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/5N/BJH1J6RQGLINMX5LRNBOYL.uasset",
+				"C:/BootCamp1/EX2/Content/Blueprint/BP_switch.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/E1/5EFKHV3S2QCPVVX0VX1GHY.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/3Z/9PQITFC6P43E3T9HB415RH.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/N6/B5AYSBQ3Q6CUXWU6G5BBYC.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/WC/3ED977YBXF6673Y4O1P99B.uasset",
+				"C:/BootCamp1/EX2/Content/Blueprint/BPI_movement.uasset",
+				"C:/BootCamp1/EX2/Content/Blueprint/BP_MoceLeftRight.uasset"
+			]
+		}
+	]
+}

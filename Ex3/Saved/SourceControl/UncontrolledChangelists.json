@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/Ex3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/Enum.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/NewBlueprint.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Rect1.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Rect2.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/Hud_Widget.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Hud.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/Timer.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/coin.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_interface.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BPI.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BPI_start.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Switch.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Rect3_Deligate.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Rect1_Deligate.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Rect2_Deligate.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Switch_Deligate.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_CountBox.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Cannon.uasset"
+			]
+		}
+	]
+}

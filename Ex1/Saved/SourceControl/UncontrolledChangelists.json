@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/Ex1/Content/ThirdPerson/Blueprints/BP_ball.uasset",
+				"C:/BootCamp1/Ex1/Content/ThirdPerson/Blueprints/BP_spwaner.uasset",
+				"C:/BootCamp1/Ex1/Content/ThirdPerson/Blueprints/BP_switch.uasset",
+				"C:/BootCamp1/Ex1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V6/QJIT1NV0V45L43BPIEY16O.uasset",
+				"C:/BootCamp1/Ex1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3T/PQIOWW8NS3HD71MU0GHKN3.uasset",
+				"C:/BootCamp1/Ex1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/BootCamp1/Ex1/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/BootCamp1/Ex1/Content/ThirdPerson/Blueprints/NewBlueprint.uasset",
+				"C:/BootCamp1/Ex1/Content/ThirdPerson/Blueprints/Countbox_widget.uasset",
+				"C:/BootCamp1/Ex1/Content/ThirdPerson/Blueprints/BP_Time.uasset",
+				"C:/BootCamp1/Ex1/Content/ThirdPerson/Blueprints/BP_CountBox.uasset"
+			]
+		}
+	]
+}
