@@ -24,7 +24,24 @@
 				"C:/BootCamp1/Ex3/Content/BP/BP_Rect2_Deligate.uasset",
 				"C:/BootCamp1/Ex3/Content/BP/BP_Switch_Deligate.uasset",
 				"C:/BootCamp1/Ex3/Content/BP/BP_CountBox.uasset",
-				"C:/BootCamp1/Ex3/Content/BP/BP_Cannon.uasset"
+				"C:/BootCamp1/Ex3/Content/BP/BP_Cannon.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZN/J1L26V0IVWV9LE4MJ02K9S.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/OK/HAVR46SAHVTI3OLYLPRQUP.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/57/U4MUQLFSMLU18LQJBHPDNJ.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/OD/L5YW6ZHWEQ1N7TGEXPDPYU.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TG/ULYIXTTAE0PUKKZOWWMNCG.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/X1/5HE44GFBDKE2UNGMZWIF16.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/OS/R7LC033JJS55RNPJ9NUYTM.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/51/ZDU11NT0I0Z0NCLAST934T.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4Q/B18ZRC0UDIEUC3OJ4FJW2A.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/X3/VCV0CJRROOU16VNO49CVBA.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WA/43062S2XRTB066OYAOUFZK.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/9R/4760JPN3JVFLTOUNCNIBE7.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KO/K5GO36DKW3313Z7UGYGXOK.uasset",
+				"C:/BootCamp1/Ex3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/42/G2DA0Q3DE6N9D0SQUON1XU.uasset",
+				"C:/BootCamp1/Ex3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/BootCamp1/Ex3/Content/BP/BP_Bullet.uasset",
+				"C:/BootCamp1/Ex3/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
