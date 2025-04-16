@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/Ex4_GameState/Content/ThirdPerson/Blueprints/EN_PlayerState.uasset",
+				"C:/BootCamp1/Ex4_GameState/Content/ThirdPerson/Blueprints/BP_GameState.uasset",
+				"C:/BootCamp1/Ex4_GameState/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/BootCamp1/Ex4_GameState/Content/ThirdPerson/Blueprints/HUD_Widget.uasset",
+				"C:/BootCamp1/Ex4_GameState/Content/ThirdPerson/Blueprints/BP_Hud.uasset",
+				"C:/BootCamp1/Ex4_GameState/Content/ThirdPerson/Blueprints/BP_GameMode.uasset"
+			]
+		}
+	]
+}
